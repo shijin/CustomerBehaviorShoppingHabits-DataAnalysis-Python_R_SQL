@@ -51,7 +51,7 @@ An end-to-end Exploratory Data Analysis project using Python, R and SQL
 
 3. Alternatively, replace the `read_csv()` line with a GitHub raw link:
 ```python
-df = pd.read_csv('[https://raw.githubusercontent.com/shijin/HeartDiseaseDataAnalysis-Python_SQL/main/heart.csv](https://github.com/shijin/BlackFridaySalesDataAnalysis-Python_R/blob/main/BlackFriday.csv)')
+df = pd.read_csv('https://github.com/shijin/CustomerBehaviorShoppingHabits-DataAnalysis-Python_R_SQL/blob/main/shopping_behavior.csv')
 ```
 ## Author
 
