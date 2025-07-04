@@ -42,11 +42,11 @@ An end-to-end Exploratory Data Analysis project using Python, R and SQL
 
 ### To Run on Google Colab:
 1. Open this notebook in Colab:  
-   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/shijin/BlackFridaySalesDataAnalysis-Python_R/blob/main/BlackFridaySales-ExploratoryDataAnalysis.ipynb)
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/shijin/CustomerBehaviorShoppingHabits-DataAnalysis-Python_R_SQL/blob/main/ConsumerBehavior_ShoppingHabits-DataAnalysis.ipynb)
 
 2. Upload the dataset manually:  
    - Click the file icon (left sidebar in Colab)
-   - Click **Upload**, then select `BlackFriday.csv`  
+   - Click **Upload**, then select `shopping_behavior.csv`  
    *(or run the cell `from google.colab import files` to upload interactively)*
 
 3. Alternatively, replace the `read_csv()` line with a GitHub raw link:
