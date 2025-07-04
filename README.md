@@ -28,7 +28,7 @@ An end-to-end Exploratory Data Analysis project using Python, R and SQL
 
 * BlackFridaySales-ExploratoryDataAnalysis.ipynb (Python notebook)
 
-* R Report on RPubs: [View Report][(http://rpubs.com/shijinramesh/customerbehavior_statisticalanalysi)]
+* R Report on RPubs: [View Report](http://rpubs.com/shijinramesh/customerbehavior_statisticalanalysi)
   
 * Project Report (PDF)
 
