@@ -36,6 +36,8 @@ An end-to-end Exploratory Data Analysis project using Python, R and SQL
 
 * requirements.txt
 
+* Power BI Dashboard: [View Dashboard](https://app.powerbi.com/links/osKtGzDl_M?ctid=695626df-d117-4278-b37d-1252e4fd8b07&pbi_source=linkShare)
+
 ### Running the Notebook
 
 - This project was built using Jupyter Notebook and is compatible with Google Colab.
